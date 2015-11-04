@@ -17,11 +17,7 @@
 
     $memcache->addServer('localhost', 11211);
 
-
-    /**
-     *  模拟300个用户
-     */
-
+ 
 
 
     /**
